@@ -10,7 +10,7 @@ const AppLogo = () => {
                     alt="Logo"
                 />
             </div>
-            <div className=" flex-col hidden sm:block">
+            <div className=" flex-col hidden md:block">
                 <h1 className="font-bold text-xl">Ozone Music</h1>
                 <p className="text-[var(--secondary)] text-sm ">
                     Enjoy the Music
